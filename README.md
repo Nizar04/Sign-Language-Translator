@@ -38,7 +38,7 @@ A production-grade sign language translation system that supports real-time tran
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/sign-language-translator.git
+git clone https://github.com/Nizar04/Sign-Language-Translator.git
 cd sign-language-translator
 ```
 
